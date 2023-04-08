@@ -24,6 +24,10 @@
 // usage:
 //          $ ./xfroggy
 
+// some notes
+// - it might be a good idea to make it easier to replace/add images
+// - currently it just walks around, so adding a little more movement/event would be good
+
 #define DIRECTIONS 8
 #define MOTIONS 3
 #define BUBBLES 12
