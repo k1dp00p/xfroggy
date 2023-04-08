@@ -1,5 +1,6 @@
 # xfroggy
-X11 program that is just a frog walking around on your desktop
+X11 program that is just a frog walking around on your desktop  
+![xfroggy](https://user-images.githubusercontent.com/123702892/230737704-4f04f385-6218-4605-8d92-83fbb5b41142.png)
 
 all image files under the `img` directory were created by 尾羽つばさ-san (@obane153)  
 http://obane.blog.shinobi.jp/kitei/kitei  
@@ -22,3 +23,5 @@ to run,
 $ ./xfroggy
 ```
 to exit, just press Ctrl-C
+
+## 
