@@ -1,5 +1,6 @@
 # xfroggy
 X11 program that is just a frog walking around on your desktop  
+inspired by `oneko`  
 ![xfroggy](https://user-images.githubusercontent.com/123702892/230737704-4f04f385-6218-4605-8d92-83fbb5b41142.png)  
 ![xfroggy](https://user-images.githubusercontent.com/123702892/230739441-7b27037d-50bd-441d-b28d-e624d7b75ea3.gif)
 
